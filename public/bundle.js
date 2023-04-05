@@ -8079,7 +8079,7 @@ __webpack_require__.r(__webpack_exports__);
 // JSX 
 react_dom__WEBPACK_IMPORTED_MODULE_1__.render( /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.createElement(_App__WEBPACK_IMPORTED_MODULE_3__["default"], {
   title: "Hello React App with props",
-  subtitle: "I have repurposed my first React application to practice writing a test and I'm using props for this subtitle and breaking it down into smaller components"
+  subtitle: "I have repurposed my first React application to practice writing a test"
 }), document.getElementById('react-container'));
 })();
 
